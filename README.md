@@ -20,6 +20,22 @@ This calculator provides basic arithmetic operations such as addition, subtracti
 4. Press the "=" button to see the result.
 5. Use the "C" or "AC" button to clear the input or reset the calculator.
 
+## What I Learned
+
+During the process of creating this simple calculator, my understanding of JavaScript and its integration with HTML and CSS was significantly enriched:
+
+1. **DOM Manipulation**: By fetching elements using methods like `getElementById` and `querySelectorAll`, I became proficient in DOM manipulation, a cornerstone of interactive web development.
+
+2. **Event Handling**: Implementing the calculator's functionality deepened my knowledge of event listeners. By binding the `handleButtonClick` function to each button's click event, I learned how to trigger specific JS functions based on user interactions.
+
+3. **Conditional Logic in JS**: Deciding when to execute arithmetic operations, when to accumulate digits for a number, and handling various edge cases (like divide by zero) solidified my understanding of conditional statements in JavaScript.
+
+4. **Integration of HTML, CSS, and JS**: Building this calculator made me realize the importance of seamless integration between structure (HTML), style (CSS), and functionality (JS). It provided a practical demonstration of how these technologies intertwine to produce dynamic web pages.
+
+5. **Debugging and Error Handling**: Ensuring that the calculator displays "Error" in edge cases taught me the basics of error handling and emphasized the importance of thorough testing.
+
+Overall, this project was invaluable in solidifying foundational concepts in web development, and specifically, in understanding the power and flexibility of JavaScript in web applications.
+
 ## Future Improvements
 
 While this calculator serves basic purposes, future improvements can include:
@@ -35,4 +51,3 @@ Feel free to fork this project and make your own changes. If you have suggestion
 ## License
 
 This project is open source, feel free to use and modify it.
-# complexcalc
