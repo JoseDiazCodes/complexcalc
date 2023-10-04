@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+	background-image: url(https://media.tenor.com/f2LaBpZdnIcAAAAC/calculator-kid.gif);
+	object-fit: cover;
+}
+
+table {
+	border: 1px dotted black;
+	margin: auto;
+	margin-top: 33rem;
+	background-color: rgba(255, 173, 185, 0.3);
+}
+
+.button {
+	width: 100%;
+	padding: 2rem 4rem;
+	background-color: lightpink;
+	color: whitesmoke;
+	font-size: 2.4rem;
+	font-weight: bold;
+	border: none;
+	border-radius: 0.5rem;
+}
+
+.text {
+	padding: 2rem, 3rem;
+	font-size: 2.4rem;
+	font-weight: bold;
+	border: none;
+	border-radius: 0.5rem;
+	border: 0.3rem solid black;
+}
